@@ -1,10 +1,9 @@
-#include "functions_pointer.h"
+#include "function_pointers.h"
 
 /**
  * print_name - prints a name
- * @name: This is name's input
- * @f: a function pointer
- *
+ * @name: name's main
+ * @f: void function
  */
 
 void print_name(char *name, void (*f)(char *))
