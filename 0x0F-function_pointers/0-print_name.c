@@ -2,7 +2,7 @@
 
 /**
  * print_name - prints a name
- * @name: name's main
+ * @name: name of the person
  * @f: void function
  */
 
