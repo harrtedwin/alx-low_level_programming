@@ -1,5 +1,5 @@
-#ifndef HEADER_MAIN
-#define HEADER_MAIN
+#ifndef FILE_F_POINTERS
+#define FILE_F_POINTERS
 
 #include <stdio.h>
 #include <stdlib.h>
